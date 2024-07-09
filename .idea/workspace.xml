@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecc18054-84ef-45b3-bd1a-1e04713c2f0c" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/IngredientList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/IngredientList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/Preparation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/RecipeTitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/src/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/src/Cacul.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/src/Cacul.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/src/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mslearn-react/code/Calculatrice/vite.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/RecipeTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/mslearn-react/code/2-component-data/start/src/RecipeTitle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mslearn-react/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,28 +40,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Node.js.App.jsx.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.index.jsx.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.stop.executor&quot;: &quot;Run&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Node.js.App.jsx.executor": "Run",
+    "Node.js.index.jsx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/HP/WebstormProjects/react",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.stop.executor": "Run",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\WebstormProjects\untitled3\mslearn-react\code\0-starter\src" />
@@ -107,7 +90,7 @@
       <workItem from="1720441606132" duration="3269000" />
       <workItem from="1720449740921" duration="4346000" />
       <workItem from="1720478661867" duration="189000" />
-      <workItem from="1720478882783" duration="14108000" />
+      <workItem from="1720478882783" duration="15801000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
